@@ -3,7 +3,7 @@ venv/
 fulcrum-update.ipynb
 review/
 .venv.code-workspace
-RS.codel-workspace
+RS.code-workspace
 .venv/.gitignore
 .venv/Lib/site-packages/decorator.py
 .venv/Lib/site-packages/distutils-precedence.pth
